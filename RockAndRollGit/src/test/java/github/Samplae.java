@@ -9,5 +9,6 @@ public class Samplae
 	public void sample123()
 	{
 		Reporter.log("hello india");
+		Reporter.log("hello india");
 	}
 }
